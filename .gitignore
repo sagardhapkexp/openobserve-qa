@@ -6,3 +6,13 @@ logs/
 reports/
 *.pyc
 temp_*.py
+
+archive/
+openobserve.exe
+openobserve.zip
+.venv/
+__pycache__/
+.pytest_cache/
+*.log
+reports/
+
